@@ -6,12 +6,12 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Under Construction!</title>
+        <title>Hello There!</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Under Construction" />
         <p className="description">
           Get started by editing <code>pages/index.js</code>
         </p>
